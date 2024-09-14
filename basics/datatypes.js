@@ -1,9 +1,7 @@
 "use strict";    //treat all js code as newer version
 
 // alert(3+3)  // we are using nodejs, not browser
-console.log(3
-    +
-    3)     // code readability should be high
+console.log(3+ 3)     // code readability should be high
 
     console.log("Piyush")
 
@@ -19,7 +17,6 @@ console.log(3
     // null => standalone value
     // undefined => no value is assigned to the variable
     // symbol => unique
-
 
     // object
 
