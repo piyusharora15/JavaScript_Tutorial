@@ -60,4 +60,3 @@ let gameCounter = 100
 ++gameCounter;   //first update value and then use
 gameCounter++;   //first use and then update
 console.log(gameCounter);
-
